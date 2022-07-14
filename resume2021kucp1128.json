@@ -1,0 +1,68 @@
+{
+    "basics": {
+        "name": "Harshil Singh Jhijaria",
+        "label": "Student",
+        
+        "email": "2021kucp1128@iiitkota.ac.in",
+        "phone": "+918512049976",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Vasundhara",
+            "postalCode": "201012",
+            "city": "Ghaziabad",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+           
+            {
+                "network": "Github",
+                "username": "harshilhsj",
+                "url": "https://www.github.com/harshilhsj"
+            }
+        ]
+    },
+    
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+   
+    
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "HTML",
+                "C"
+               
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+       
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton"
+            ]
+        }
+    ]
+}
